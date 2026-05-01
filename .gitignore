@@ -1,0 +1,11 @@
+# Ignore everything at the repository root by default.
+*
+
+# Track only the requested project folders and this ignore file.
+!/.gitignore
+!/app/
+!/app/**
+!/admin/
+!/admin/**
+!/backend/
+!/backend/**
